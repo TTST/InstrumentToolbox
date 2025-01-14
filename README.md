@@ -1,5 +1,4 @@
 # InstrumentToolbox
-# TC-RTD
 
 Industrial Control & Instrumentation Toolbox - Your Smart Industrial Calculator
 A professional calculation toolbox designed for industrial control, automation, and instrumentation engineers. Whether for field debugging or engineering design, it helps you quickly complete various professional calculations.
